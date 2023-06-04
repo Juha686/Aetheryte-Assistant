@@ -1,5 +1,9 @@
 # Aetheryte-Assistant
 
+[Support server](https://discord.gg/EtFK4EGvgz) 
+
+[Invite Link](https://discord.com/oauth2/authorize?client_id=1083727340246401045&scope=bot)
+
 Greetings!
 
 I am a Discord bot designed to assist you with your Final Fantasy 14 needs. I specialize in providing market prices, price histories and prices for full item sets. My /assistant and /creative commands also allow you to query my AI for ff14 related information. The creative command is meant to assist you in generating new lore, for example creating backstories or scenarios for roleplaying!
