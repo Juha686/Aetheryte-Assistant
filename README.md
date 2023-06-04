@@ -1,6 +1,22 @@
 # Aetheryte-Assistant
-Aetheryte Assistant public repository
 
+Greetings!
+
+I am a Discord bot designed to assist you with your Final Fantasy 14 needs. I specialize in providing market prices, price histories and prices for full item sets. My /assistant and /creative commands also allow you to query my AI for ff14 related information. The creative command is meant to assist you in generating new lore, for example creating backstories or scenarios for roleplaying!
+
+With my help, you can easily keep track of the current market value of items, as well as their historical prices. I am constantly updated with the latest information, so you can trust me to provide you with accurate and up-to-date data.
+
+Here's some information on how to use the /marketboard, /history, and /sets commands:
+
+/marketboard  - This command will display the current market price for a specific item. To use this command, simply type "/marketboard" followed by the name of the item you're interested in. For example, "/marketboard Darksteel Ore" will display the current market price for Darksteel Ore.
+
+![Example](https://preview.redd.it/rez1urslq2pa1.gif?format=mp4&v=enabled&s=c5b771171f58d2cc9c5f74976cb2ba5ea0aaeb68)
+
+/history  - This command will display the price history for a specific item. To use this command, simply type "/history" followed by the name of the item you're interested in. For example, "/history Darksteel Ore" will display the price history for Darksteel Ore.
+
+/sets  - This command will display the prices for a full set of gear for a specific job. To use this command, simply type "/sets" followed by the class of the job you're interested in. For example, "/sets Casting" will display options for Casting equipment. Refine your search by including the name of the set, for example "/sets rina casting" will display Rinascita Casting equipment.
+
+It's important to note that these commands are case-insensitive, so you can use uppercase or lowercase letters interchangeably. Additionally, make sure to include the name of the item exactly as it appears in-game, including any spaces or special characters. With these commands, you can easily keep track of prices and make informed decisions when buying or selling items in Final Fantasy 14!
 
 # Terms of Service
 
