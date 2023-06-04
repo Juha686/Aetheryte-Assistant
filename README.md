@@ -10,7 +10,7 @@ Here's some information on how to use the /marketboard, /history, and /sets comm
 
 /marketboard  - This command will display the current market price for a specific item. To use this command, simply type "/marketboard" followed by the name of the item you're interested in. For example, "/marketboard Darksteel Ore" will display the current market price for Darksteel Ore.
 
-![Example](https://preview.redd.it/rez1urslq2pa1.gif?format=mp4&v=enabled&s=c5b771171f58d2cc9c5f74976cb2ba5ea0aaeb68)
+![Example gif](https://github.com/Juha686/Aetheryte-Assistant/assets/57060909/b00cd16c-4a5e-4111-a067-5493dcdc99eb)
 
 /history  - This command will display the price history for a specific item. To use this command, simply type "/history" followed by the name of the item you're interested in. For example, "/history Darksteel Ore" will display the price history for Darksteel Ore.
 
